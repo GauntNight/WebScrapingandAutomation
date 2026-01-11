@@ -1,0 +1,13 @@
+date,title,word_count,compound,positive,negative,neutral,url,sentiment_label
+2024-01-15,The Fragility of Modern Systems,180,-0.9851,0.096,0.217,0.686,https://nntaleb.substack.com/p/fragility-modern-systems,Very Pessimistic
+2024-02-22,On Intellectual Arrogance,168,-0.9853,0.075,0.234,0.691,https://nntaleb.substack.com/p/intellectual-arrogance,Very Pessimistic
+2024-03-30,Why I'm Optimistic About Decentralization,133,-0.8162,0.152,0.184,0.663,https://nntaleb.substack.com/p/optimistic-decentralization,Very Pessimistic
+2024-05-12,The Dangers of Naive Interventionism,142,-0.9132,0.096,0.177,0.728,https://nntaleb.substack.com/p/dangers-interventionism,Very Pessimistic
+2024-06-20,Probability and Real Life,147,-0.9802,0.056,0.207,0.738,https://nntaleb.substack.com/p/probability-real-life,Very Pessimistic
+2024-07-18,Against Linear Thinking,133,0.8805,0.184,0.111,0.706,https://nntaleb.substack.com/p/against-linear-thinking,Very Optimistic
+2024-08-25,The Virtue of Paranoia,121,-0.9894,0.099,0.341,0.56,https://nntaleb.substack.com/p/virtue-paranoia,Very Pessimistic
+2024-09-14,Why I Love the Mediterranean,128,0.8888,0.131,0.068,0.801,https://nntaleb.substack.com/p/mediterranean-lifestyle,Very Optimistic
+2024-10-10,The Problem with Prediction Markets,139,-0.9422,0.186,0.241,0.573,https://nntaleb.substack.com/p/prediction-markets,Very Pessimistic
+2024-11-08,On Hope and Resilience,132,0.1373,0.09,0.093,0.817,https://nntaleb.substack.com/p/hope-resilience,Optimistic
+2024-12-03,Ergodicity and Personal Finance,140,-0.646,0.117,0.124,0.759,https://nntaleb.substack.com/p/ergodicity-finance,Very Pessimistic
+2025-01-05,The Failure of Scientific Institutions,139,-0.9609,0.199,0.277,0.523,https://nntaleb.substack.com/p/scientific-institutions,Very Pessimistic
